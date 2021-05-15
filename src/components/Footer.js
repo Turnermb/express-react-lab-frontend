@@ -1,5 +1,5 @@
 function Footer(props) {
-    return <h1>Footer</h1>;
+    return <footer>Mapsosa Media 2021</footer>;
   }
   
   export default Footer;
